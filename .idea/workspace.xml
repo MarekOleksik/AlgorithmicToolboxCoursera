@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7eea834-601d-4c7e-b381-d21432c824bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aUVPBtf0aGDezdEcAvmsyJu43x" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MaxPairwiseProduct">
+    <configuration name="APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.sum_of_two_digits.APlusB" />
+      <module name="AlgorithmicToolboxCoursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.sum_of_two_digits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxPairwiseProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.maximum_pairwise_product.MaxPairwiseProduct" />
+      <module name="AlgorithmicToolboxCoursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.maximum_pairwise_product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxPairwiseProduct" />
+        <item itemvalue="Application.APlusB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7eea834-601d-4c7e-b381-d21432c824bd" name="Default Changelist" comment="" />
+      <created>1586790132479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586790132479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2014" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586790150520">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2014" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790150520" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1586790975995">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1586790975995">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1586790975995">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1586790975995">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
+  </component>
+</project>
