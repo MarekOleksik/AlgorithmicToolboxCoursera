@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7eea834-601d-4c7e-b381-d21432c824bd" name="Default Changelist" comment="" />
+    <list default="true" id="f7eea834-601d-4c7e-b381-d21432c824bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/a_fibonacci_number/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/b_last_digit_of_fibonacci_number/FibonacciLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/c_greatest_common_divisor/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/d_least_common_multiple/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/e_fibonacci_number_again/FibonacciHuge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/f_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/g__last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2_algorithmic_warmup/h__last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/a_money_change/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/b_maximum_value_of_the_loot/FractionalKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/c_car_fueling/CarFueling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/d_maximum_advertisement_revenue/DotProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/e_collecting_signatures/CoveringSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/f_maximum_number_of_prizes/DifferentSummands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3_greedy_algorithms/g_maximum_salary/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/maximum_pairwise_product/MaxPairwiseProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1_programming_challenges/b_maximum_pairwise_product/MaxPairwiseProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/sum_of_two_digits/APlusB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1_programming_challenges/a_sum_of_two_digits/APlusB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +34,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aUVPBtf0aGDezdEcAvmsyJu43x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -23,16 +49,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaxPairwiseProduct">
-    <configuration name="APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.sum_of_two_digits.APlusB" />
+  <component name="RunManager" selected="Application.CarFueling">
+    <configuration name="CarFueling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3_greedy_algorithms.c_car_fueling.CarFueling" />
       <module name="AlgorithmicToolboxCoursera" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.sum_of_two_digits.*" />
+          <option name="PATTERN" value="week3_greedy_algorithms.c_car_fueling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +67,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxPairwiseProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.maximum_pairwise_product.MaxPairwiseProduct" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2_algorithmic_warmup.a_fibonacci_number.Fibonacci" />
       <module name="AlgorithmicToolboxCoursera" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.maximum_pairwise_product.*" />
+          <option name="PATTERN" value="week2_algorithmic_warmup.a_fibonacci_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSumLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2_algorithmic_warmup.f_last_digit_of_the_sum_of_fibonacci_numbers.FibonacciSumLastDigit" />
+      <module name="AlgorithmicToolboxCoursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2_algorithmic_warmup.f_last_digit_of_the_sum_of_fibonacci_numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSumSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2_algorithmic_warmup.h__last_digit_of_the_sum_of_squares_of_fibonacci_numbers.FibonacciSumSquares" />
+      <module name="AlgorithmicToolboxCoursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2_algorithmic_warmup.h__last_digit_of_the_sum_of_squares_of_fibonacci_numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2_algorithmic_warmup.c_greatest_common_divisor.GCD" />
+      <module name="AlgorithmicToolboxCoursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2_algorithmic_warmup.c_greatest_common_divisor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,8 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxPairwiseProduct" />
-        <item itemvalue="Application.APlusB" />
+        <item itemvalue="Application.CarFueling" />
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.FibonacciSumSquares" />
+        <item itemvalue="Application.FibonacciSumLastDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -78,21 +147,21 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2014" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790150520" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1586790975995">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1586799414961">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1586790975995">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586799414961" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1586799414961">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1586790975995">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586799414961" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1586799414961">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1586790975995">
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586799414961" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1586799414961">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586790975995" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1586799414961" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package week1.maximum_pairwise_product;
+package week1_programming_challenges.b_maximum_pairwise_product;
 
 import java.util.*;
 import java.io.*;

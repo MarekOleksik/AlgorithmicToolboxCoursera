@@ -1,4 +1,4 @@
-package week1.sum_of_two_digits;
+package week1_programming_challenges.a_sum_of_two_digits;
 
 import java.util.Scanner;
 
